@@ -2,7 +2,6 @@
 @media only screen and (min-width: 1350px) {
 
 html {
--webkit-text-size-adjust: none;
 scroll-behavior: smooth;
 }
 
